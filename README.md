@@ -8,7 +8,7 @@ Interested in Web Development and constantly seeking to expand my knowledge in o
 
 * 🖥️  See my portfolio at [Emmanuel's Portfolio](http://emmanuel-p-alba.netlify.app/)
 * ✉️  You can contact me at [emmanuel.p.alba@outlook.com](mailto:emmanuel.p.alba@outlook.com)
-* ⚡  I really like coffe and cats ☕🐈
+
 
 ### Skills
 
