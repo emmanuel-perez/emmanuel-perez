@@ -13,7 +13,7 @@ Software Engineer
 - 📖 Constantly trying to expand my knowledge in other Computer Science fields  
   
 
-- ⚡ Fun fact: I love coffee and sushi  
+- ⚡ Just a Software Engineer who loves coffee and sushi 
   
 
 <br/>  
