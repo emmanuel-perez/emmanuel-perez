@@ -4,7 +4,7 @@ Hi 👋 My name is Emmanuel
 Software Engineer
 -----------------
 
-- 🌐 I’m currently working as a full stack web developer  
+- 🌐 Working as a full stack web developer  
   
 
 - 🌱 I’m currently learning Data Science and Machine Learning  
